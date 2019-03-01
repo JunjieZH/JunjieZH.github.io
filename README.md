@@ -10,6 +10,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+1.使用前了解Github
+GitHub是一个共享虚拟主机服务，用于存放使用Git版本控制的软件代码和内容项目(引自维基百科）
+
+2.为什么选择Github?
+github有一个很有爱的项目，叫做github pages，这个项目是给开发者建立一个私人页面，上面用来分享新颖的想法和自己写的代码.
+
+3.注册属于你自己的Github账号
+首先进入Github站点,然后进行注册(此处不做详细说明可自行阅读github教程：[1]注册github)
+
+注册完毕后你就拥有了自己的代码仓库了.
+
+4.创建仓库
+在Github首页右上角头像左侧加号点选择 New repositor(新存储库)或点击这里进行创建一个仓库.
 
 # Header 1
 ## Header 2
