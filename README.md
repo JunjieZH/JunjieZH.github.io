@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 ![img](/source/picture/q.png)
+![Image](https://JunjieZH.github.com/JunjieZH/repositpry/master/piucture/q.jpg)
 1.使用前了解Github
 GitHub是一个共享虚拟主机服务，用于存放使用Git版本控制的软件代码和内容项目(引自维基百科）
 
